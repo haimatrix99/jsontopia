@@ -9,11 +9,19 @@ A JSON tooling service to generate JSON schemas from descriptions and extract st
 - **Streaming API**: Real-time streaming responses for both generation and extraction
 - **Web UI**: Interactive user interface for testing the API endpoints
 
+## Demo
+
+![Schema Generator Demo](static/images/demo_1.png)
+*JSON Schema Generator: Automatically create JSON schemas from natural language descriptions*
+
+![JSON Extractor Demo](static/images/demo_2.png)
+*JSON Extractor: Extract structured data from text based on your schema*
+
 ## Getting Started
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.13
 - OpenAI API key
 
 ### Installation
